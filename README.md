@@ -1,9 +1,9 @@
-<h1>Hi, I'm Carlos! <br/>Software Engineering Student
+<h1>Hi, I'm Carlos! Software Engineering Student
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
-  - [Creating a Live SOC / HoneyNet](https://github.com/cruz-carlos/Azure-SOC)
+  - [Creating a Live SOC / HoneyNet in Azure](https://github.com/cruz-carlos/Azure-SOC)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
