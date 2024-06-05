@@ -1,4 +1,4 @@
-<h1>Hi, I'm Carlos! Software Engineering Student
+<h1>Hi, I'm Carlos! Information Systems Student
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -36,7 +36,7 @@
 <!--[<img align="left" alt="Carlos Cruz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 
 
-[email]: carloscruzm.cmc@gmail.com
+[email]: mailto:carloscruzm.cmc@gmail.com
 
 
 <!--
