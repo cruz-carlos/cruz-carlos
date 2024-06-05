@@ -32,12 +32,12 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="Carlos Cruz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Carlos Cruz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Carlos Cruz | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][twitter]
+<!--[<img align="left" alt="Carlos Cruz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 
 
-[twitter]: https://twitter.com/placeholer
-[linkedin]: https://linkedin.com/in/placeholder
+[email]: carloscruzm.cmc@gmail.com
+
 
 <!--
 **cruz-carlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
