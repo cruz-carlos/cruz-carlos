@@ -5,7 +5,7 @@
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / HoneyNet in Azure](https://github.com/cruz-carlos/Azure-SOC)
 - <b>Vulnerability Remediations</b>
-  - [Programmatic STIG Remediation with Powershell](https://github.com/cruz-carlos/vulnerability-remediations/tree/main/STIGS)
+  - [Programmatic STIG Remediation with Powershell](https://github.com/cruz-carlos/vulnerability-remediations)
 <!-- - <b>C# (.NET Desktop Applications)</b>
 
 
