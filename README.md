@@ -1,4 +1,4 @@
-<h1>Hi, Carlos' IT and Cybersecurity Project Portfolio
+<h1>Carlos Cruz's IT and Cybersecurity Project Portfolio
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
